@@ -268,8 +268,7 @@ SKIP IT:
 73. Use `forEach()` to create an HTML list from an array of strings.
     Hint: Concatenate HTML tags within the `forEach()` callback.
 
-74. Implement a simple search function using `forEach()`.
-    Hint: Use a condition inside the `forEach()` callback to find matching elements.
+74. 
 
 75. Use `forEach()` to count how many elements in an array meet a certain condition.
     Hint: Increment a counter variable in the `forEach()` callback when the condition is met.
