@@ -49,7 +49,7 @@
     [Learn more about for loops](https://www.w3schools.com/js/js_loop_for.asp)
 
 13. Write a while loop that converts a decimal number to its binary representation.
-    Hint: Repeatedly divide by 2 and keep track of the remainders.
+    Hint: Repeatedly divide by 2 and keep track of the remainderads.
     [Learn more about while loops](https://www.w3schools.com/js/js_loop_while.asp)
 
 14. Create a for loop that prints a triangle pattern of numbers:

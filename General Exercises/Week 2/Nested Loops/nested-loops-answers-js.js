@@ -10,8 +10,8 @@ for (let i = 0; i < 2; i++) {
 
 // Exercise 2: Print numbers from 1 to 4 in a 2x2 grid
 console.log("\nExercise 2:");
-let count = 1;
 for (let i = 0; i < 2; i++) {
+  let count = 1;
   let row = "";
   for (let j = 0; j < 2; j++) {
     row += count + " ";
@@ -342,4 +342,38 @@ for (let i = 0; i < 4; i++) {
     row += (i + j + 1) + " ";
   }
   console.log(row);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log("\nExercise 15:");
+for (let i = 0; i < 8; i++) {
+  let row = "";
+  console.log(row);
+  
+  for (let j = 0; j < 8; j++) {
+    row += "*"
+    console.log(row);
+    
+    if ( j === 4) {
+        row += "****"
+        console.log(row);
+
+  }
+}
 }
